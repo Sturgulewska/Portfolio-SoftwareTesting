@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite id="" name="" >
+<node_order><![CDATA[]]></node_order>
+<details><![CDATA[]]></details> 
+<testsuite id="52" name="Sprawdzenie funkcjonalności zakładek menu strony bonito.pl" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="54" name="Sprawdzenie zakładki &quot;O nas&quot;">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[1]]></externalid>
+	<version><![CDATA[2]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na stronie gł&oacute;wnej: bonito.pl.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1.&nbsp;Użytkownik klika w zakładkę: o&nbsp;nas.</p>
+
+<p>2. Użytkownik weryfikuje zawartość strony: o&nbsp;nas.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Wyświetla się strona: o nas.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="58" name="Sprawdzenie zakładki &quot;Regulamin&quot;">
+	<node_order><![CDATA[1001]]></node_order>
+	<externalid><![CDATA[2]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na stronie gł&oacute;wnej: bonito.pl.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1.&nbsp;Użytkownik klika w zakładkę: regulamin.</p>
+
+<p>2.&nbsp;Użytkownik weryfikuje zawartość strony: regulamin.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Wyświetla się strona: regulamin.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="61" name="Sprawdzenie zakładki &quot;Kontakt&quot;">
+	<node_order><![CDATA[1002]]></node_order>
+	<externalid><![CDATA[3]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na stronie gł&oacute;wnej: bonito.pl.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1.&nbsp;Użytkownik klika w zakładkę: kontakt.</p>
+
+<p>2.&nbsp;Użytkownik weryfikuje zawartość strony: kontakt.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Wyświetla się strona: kontakt.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="64" name="Sprawdzenie zakładki &quot;Koszt dostawy&quot;">
+	<node_order><![CDATA[1003]]></node_order>
+	<externalid><![CDATA[4]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na stronie gł&oacute;wnej: bonito.pl.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1.&nbsp;Użytkownik klika w zakładkę: koszt dostawy.</p>
+
+<p>2. Użytkownik przechodzi na stronę</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Wyświetla się strona: koszt dostawy.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="67" name="Sprawdzenie zakładki &quot;Odbiór osobisty&quot;">
+	<node_order><![CDATA[1004]]></node_order>
+	<externalid><![CDATA[5]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na stronie gł&oacute;wnej: bonito.pl.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1.&nbsp;Użytkownik klika w zakładkę: odbi&oacute;r osobisty.</p>
+
+<p>2.&nbsp;Użytkownik weryfikuje zawartość strony: odbi&oacute;r osobisty.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Wyświetla się strona: odbi&oacute;r osobisty.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="70" name="Sprawdzenie zakładki &quot;Rabaty!&quot;">
+	<node_order><![CDATA[1005]]></node_order>
+	<externalid><![CDATA[6]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na stronie gł&oacute;wnej: bonito.pl.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1.&nbsp;Użytkownik klika w zakładkę: rabaty.</p>
+
+<p>2.&nbsp;Użytkownik weryfikuje zawartość strony: rabaty.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Wyświetla się strona: rabaty.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="73" name="Sprawdzenie zakładki &quot;Promocje!&quot;">
+	<node_order><![CDATA[1006]]></node_order>
+	<externalid><![CDATA[7]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na stronie gł&oacute;wnej: bonito.pl.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1.&nbsp;Użytkownik klika w zakładkę: promocje.</p>
+
+<p>2. Użytkownik weryfikuje zawartość strony: promocje.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>1. Wyświetla się strona: promocje.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="76" name="Sprawdzenie zakładki &quot;Dla wydawców&quot;">
+	<node_order><![CDATA[1007]]></node_order>
+	<externalid><![CDATA[8]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na stronie gł&oacute;wnej: bonito.pl.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1.&nbsp;Użytkownik klika w zakładkę: dla wydawc&oacute;w.</p>
+
+<p>2.&nbsp;Użytkownik weryfikuje zawartość strony: dla wydawc&oacute;w.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Wyświetla się strona: dla wydawc&oacute;w.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="79" name="Sprawdzenie zakładki &quot;Sprzedaż hurtowa&quot;">
+	<node_order><![CDATA[1008]]></node_order>
+	<externalid><![CDATA[9]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na stronie gł&oacute;wnej: bonito.pl.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1.&nbsp;Użytkownik klika w zakładkę: sprzedaż hurtowa.</p>
+
+<p>2.&nbsp;Użytkownik weryfikuje zawartość strony: sprzedaż hurtowa.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Wyświetla się strona: sprzedaż hurtowa.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testsuite><testsuite id="82" name="Sprawdzenie czy po kliknięciu w logo wyświetla się odpowiednia strona" >
+<node_order><![CDATA[2]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="83" name="Sprawdzenie linku w logu">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[10]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1.Użytkownik znajduje się na zakładce: promocje.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1.&nbsp;Użytkownik klika w logo na stronie gł&oacute;wnej.</p>
+
+<p>2.&nbsp;Użytkownik weryfikuje zawartość strony gł&oacute;wnej.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Wyświtla się strona gł&oacute;wna bonito.pl</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testsuite><testsuite id="86" name="Sprawdzenie rejestracji do systemu" >
+<node_order><![CDATA[3]]></node_order>
+<details><![CDATA[<p>1. Użytkownik znajduje się&nbsp; na stronie&nbsp;gł&oacute;wnej aplikacji&nbsp;<br />
+&nbsp;</p>
+]]></details> 
+
+<testcase internalid="90" name="Sprawdzenie rejestracji do systemu nowego użytkownika">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[11]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik&nbsp;znajduje się na&nbsp;stronie rejestracji użytkownika.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. W miejscu na logowanie użytkownik wpisuję wymagane dane.</p>
+
+<p>2. W miejscu na &quot;dane osoby reprezentującej firmę lub instytucję&quot; użytkownik wpisuje wymagane dane.</p>
+
+<p>3. W miejscu na &quot;dane do faktury VAT&quot; użytkownik wpisuje wymagane dane.</p>
+
+<p>4. Użytkownik otrzymuje email z linkiem aktywacyjnym</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Użytkownik został zarejestrowany do aplikacji</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="96" name="Sprawdzenie rejestracji do systemu istniejącego użytkownika">
+	<node_order><![CDATA[1001]]></node_order>
+	<externalid><![CDATA[12]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik o loginie: root znajduje się na stronie rejestracji użytkownika.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. W miejscu na logowanie użytkownik wpisuję dane użytkownika o loginie root.</p>
+
+<p>2. W miejscu na &quot;dane osoby reprezentującej firmę lub instytucję&quot; użytkownik wpisuje&nbsp;dane użytkownika o loginie root.</p>
+
+<p>3. W miejscu na &quot;dane do faktury VAT&quot; użytkownik wpisuje dane użytkownika o loginie root.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Nie można zarejestrować istniejącego już użytkownika.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="99" name="Sprawdzenie rejestracji zablokowanego użytkownika">
+	<node_order><![CDATA[1002]]></node_order>
+	<externalid><![CDATA[13]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Zablokowany użytkownik o&nbsp;loginie: root&nbsp;znajduje się na stronie rejestracji użytkownika.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. W miejscu na logowanie użytkownik wpisuję dane zablokowanego&nbsp;użytkownika o loginie root.</p>
+
+<p>2. W miejscu na &quot;dane osoby reprezentującej firmę lub instytucję&quot; użytkownik wpisuje&nbsp;dane zablokowanego użytkownika o loginie root.</p>
+
+<p>3. W miejscu na &quot;dane do faktury VAT&quot; użytkownik wpisuje dane zablokowanego użytkownika o loginie root.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Nie można zarejestrować zablokowanego już użytkownika.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="109" name="Sprawdzenie formularza do rejestracji pod kątem walidacji">
+	<node_order><![CDATA[1003]]></node_order>
+	<externalid><![CDATA[16]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik&nbsp;znajduje się na stronie rejestracji użytkownika.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. W miejscu na login użytkownik wpisuję login użytkownika z znakami specjalnymi.</p>
+
+<p>2. W miejscu na hasło użytkownik wpisuje hasło o długości 4 liter.</p>
+
+<p>3. W miejscu na powt&oacute;rz hasło użytkownik wpisuje inne dane niż w miejscu hasło.</p>
+
+<p>4. W miejscu na imię użytkownik podaję ciąg znak&oacute;w z dużymi i małymi literami oraz znakami specjalnymi.</p>
+
+<p>5.&nbsp;W miejscu na nazwisko&nbsp;użytkownik podaję ciąg znak&oacute;w z dużymi i małymi literami oraz znakami specjalnymi.</p>
+
+<p>6.&nbsp;W miejscu na telefon kom&oacute;rkowy&nbsp;użytkownik podaję ciąg znak&oacute;w z dużymi i małymi literami.</p>
+
+<p>7.&nbsp;W miejscu na e-mail&nbsp;użytkownik podaję ciąg znak&oacute;w składający się z samych liczb.</p>
+
+<p>8. W miejscu na nazwa firmy lub instytucji użytkownik podaje same liczby i znaki specjalne.</p>
+
+<p>9. W miejscu na ulicę&nbsp;użytkownik podaje same liczby i znaki specjalne.</p>
+
+<p>10.W miejscu na kod pocztowy&nbsp;użytkownik podaje same&nbsp;znaki specjalne.</p>
+
+<p>11. W miejscu na miejscowość&nbsp;użytkownik podaje same liczby i znaki specjalne.</p>
+
+<p>11. W miejscu na nip&nbsp;użytkownik podaje same wielkie litery.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Dane podane w formularzu są niepoprawne.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="112" name="Sprawdzenie rejestracji do systemu usuniętego użytkownika">
+	<node_order><![CDATA[1004]]></node_order>
+	<externalid><![CDATA[17]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik, kt&oacute;ry usunął konto z aplikacji, ponownie rejestruję się do systemu.&nbsp;</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. W miejscu na login i hasło&nbsp;użytkownik wykorzystuje dane z usuniętego konta.</p>
+
+<p>2. W miejscu na &quot;dane osoby reprezentującej firmę lub instytucję&quot; użytkownik wykorzystuje&nbsp;dane z&nbsp;usuniętego konta.&nbsp;</p>
+
+<p>3. W miejscu na &quot;dane do faktury VAT&quot; użytkownik wykorzystuje&nbsp;dane z usuniętego konta.</p>
+
+<p>4. Użytkownik otrzymuje email z linkiem aktywacyjnym</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Użytkownik został zarejestrowany do aplikacji</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testsuite><testsuite id="102" name="Sprawdzenie logowania do systemu" >
+<node_order><![CDATA[4]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="103" name="Sprawdzenie logowania do systemu nie zalogowanego użytkownika">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[14]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na&nbsp;stronie logowania</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. W miejscu na logowanie użytkownik wpisuję dane podane w trakcie rejestracji, potrzebne do zalogowania.<br />
+&nbsp;</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Logowanie użytkownika przebiegło&nbsp;poprawnie.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="115" name="Sprawdzenie logowania do systemu zablokowanego użytkownika">
+	<node_order><![CDATA[1001]]></node_order>
+	<externalid><![CDATA[18]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik znajduje się na&nbsp;stronie logowania.</p>
+
+<p>&nbsp;</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. W miejscu na logowanie użytkownik wpisuję dane zablokowanego użytkownika.</p>
+
+<p>2. W miejscu na &quot;dane osoby reprezentującej firmę lub instytucję&quot; użytkownik wpisuje dane zablokowanego użytkownika.</p>
+
+<p>3. W miejscu na &quot;dane do faktury VAT&quot; użytkownik wpisuje dane zablokowanego użytkownika.&nbsp;</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Użytkownik nie został zalogowany&nbsp;do aplikacji, konto użytkownika jest zablokowane.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="118" name="Sprawdzenie logowania na systemu usuniętego konto">
+	<node_order><![CDATA[1002]]></node_order>
+	<externalid><![CDATA[19]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Usunięty z aplikacji użytkownik znajduje się na&nbsp;stronie do&nbsp;logowania</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. W miejscu na logowanie użytkownik wpisuję dane usuniętego użytkownika aplikacji.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Użytkownik nie loguje się do aplikacji.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="121" name="Sprawdzenie logowania do systemu z błędnymi danymi">
+	<node_order><![CDATA[1003]]></node_order>
+	<externalid><![CDATA[20]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Użytkownik o loginie:root znajduje się na stronie logowania.</p>
+
+<p>&nbsp;</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. W miejscu na logowanie użytkownik wpisuję inne dane, niż te podane w trakcie rejestracji.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Użytkownik nie loguje się do aplikacji.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testsuite></testsuite>
