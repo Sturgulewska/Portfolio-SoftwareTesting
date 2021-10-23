@@ -27,22 +27,24 @@ Xmind, Mind Meister - Mind mapping softwares </li>
 
 # My test case examples
 <br>
-<li>link google docs?</li></br>
+<li>https://github.com/Sturgulewska/Portfolio-softwareTesting</li></br>
 
 # My bug reports
 <br>
-<li>link google docs?</li></br>
+<li>https://github.com/Sturgulewska/Portfolio-softwareTesting</li></br>
 
 # Books
 <br>
-<li> R.Smilgin - Zawód tester</li>
-<li> Analiza testów - English book</li>
+<li>R.Smilgin - Zawód tester</li>
+<li>K.Kaczor - Scrum i nie tylko. Teoria i praktyka w metodach Agile</li>
+<li>R.Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących</li>
+
 
 </br>
 
 # Courses
 <br>
-<li>udemyL</li></br>
+<li> udemy </li></br>
 
 # Recommended blogs
 <br>
