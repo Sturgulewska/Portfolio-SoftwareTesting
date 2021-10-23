@@ -38,15 +38,16 @@ Xmind, Mind Meister - Mind mapping softwares </li>
 <li>R.Smilgin - Zawód tester</li>
 <li>K.Kaczor - Scrum i nie tylko. Teoria i praktyka w metodach Agile</li>
 <li>R.Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących</li>
-
-
 </br>
 
 # Courses
 <br>
-<li> udemy </li></br>
+<li> https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/learn/lecture/13341422?start=0#overview </li></br>
 
 # Recommended blogs
 <br>
-<li> </li></br>
+<li>https://remigiuszbednarczyk.pl/ </li>
+<li>https://testerzy.pl/</li>
+<li>https://www.wyszkolewas.com.pl/blog/</li>
+</br>
 
