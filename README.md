@@ -42,7 +42,7 @@ Xmind, Mind Meister - Mind mapping softwares </li>
 
 # Courses
 <br>
-<li> https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/learn/lecture/13341422?start=0#overview </li></br>
+<li>https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/learn/lecture/13341422?start=0#overview</li></br>
 
 # Recommended blogs
 <br>
