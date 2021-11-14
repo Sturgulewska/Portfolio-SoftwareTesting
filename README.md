@@ -2,7 +2,7 @@
 
 # About me
 <br>
-I loves study and IT worlds it is my favorite subject. I started study with Java and C#, but it  wasn't enough for me. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.</br>
+I loves study and IT worlds it is my favorite subject. I started study with Java and Spring Boot, but it  wasn't enough for me. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.</br>
 
 # Tools
 <br>
@@ -11,7 +11,7 @@ I loves study and IT worlds it is my favorite subject. I started study with Java
 <li> Swagger - set of rules (in other words, a specification) for a format describing REST APIs</li>
 <li>Selenium IDE - Open source record and playback test automation for the web</li>
 <li> xPath Finder - xPath finding tool
-Xmind, Mind Meister - Mind mapping softwares </li>
+<li> Xmind, Mind Meister - Mind mapping softwares </li>
 <li>draw.io - Flowchart maker and online diagram software</li></br>
 
 # Tech skills
